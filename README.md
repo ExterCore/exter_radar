@@ -17,9 +17,11 @@ The Dispatch & Radar System is designed to enhance law enforcement gameplay in F
 ### 1️⃣ Download & Setup
 Clone or Download the Required Repositories:
 
-NPX (Mandatory Dependency)
+[np-polyzone](https://github.com/CtrlAltDelete4413/NPX)
+[np-keybinds](https://github.com/CtrlAltDelete4413/NPX)
+[focusmanager](https://github.com/CtrlAltDelete4413/NPX)
 
-Dispatch & Radar script
+### Dispatch & Radar script
 
 Move the Scripts to Your Server Folder:
 
