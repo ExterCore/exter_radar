@@ -57,15 +57,18 @@ ensure npx
 ensure dispatch-radar
 Then, restart your server and verify that everything functions properly.
 
+# PREVIEW
+https://streamable.com/1322xu
+
 🔗 Dependencies
 This script requires the NPX Framework to function correctly. Ensure that you have it installed before using the Dispatch & Radar System.
 
-NPX Repository
+### NPX Repository
 
 Additionally, your server must be running QBCore or ESX for compatibility.
 
-🎯 Future Updates
-🚀 Planned features for upcoming updates:
+## 🎯 Future Updates
+## 🚀 Planned features for upcoming updates:
 
 GPS Unit Integration: Display real-time police unit locations
 
@@ -73,8 +76,8 @@ Radar Speed Alerts: Notify officers when a vehicle exceeds speed limits
 
 Custom UI & Themes: Allow admins to modify radar & dispatch visuals
 
-🛠️ Support & Contributions
-If you encounter any issues or have suggestions for improvements, feel free to open an issue on this repository or reach out via Discord.
+# 🛠️ Support & Contributions
+## If you encounter any issues or have suggestions for improvements, feel free to open an issue on this repository or reach out via Discord.
 
 💡 Contributions are welcome! If you'd like to contribute, please submit a Pull Request with tested changes.
 
