@@ -1,11 +1,11 @@
-🚔 Dispatch & Radar System
-Framework: QBCore & ESX
-Design Inspired By: NoPixel 4.0
+# 🚔 Dispatch & Radar System
+## Framework: QBCore & ESX
+### Design Inspired By: NoPixel 4.0
 
-📖 Overview
+## 📖 Overview
 The Dispatch & Radar System is designed to enhance law enforcement gameplay in FiveM servers using QBCore or ESX. This system includes a real-time dispatch, speed radar, and job-restricted access for police officers.
 
-🚨 Key Features:
+## 🚨 Key Features:
 ✔️ Supports QBCore, ESX, and NP-Base
 ✔️ Modern speed radar with accurate vehicle tracking
 ✔️ Real-time dispatch system for police units
@@ -13,8 +13,8 @@ The Dispatch & Radar System is designed to enhance law enforcement gameplay in F
 ✔️ Fully customizable via config.js
 ✔️ Access restricted to police jobs only
 
-📂 Installation Guide
-1️⃣ Download & Setup
+## 📂 Installation Guide
+### 1️⃣ Download & Setup
 Clone or Download the Required Repositories:
 
 NPX (Mandatory Dependency)
@@ -25,12 +25,13 @@ Move the Scripts to Your Server Folder:
 
 Place both scripts inside your resources/ directory.
 
-2️⃣ Configure config.js
+### 2️⃣ Configure config.js
 Before running the script, ensure the configuration matches your server's requirements:
 
 js
 Copy
 Edit
+```
 Config = {
     FrameWork: "qbcore", // Options: qbcore, esx, np-base
     SpeedType: "mph", // Options: mph, kmh
@@ -43,7 +44,8 @@ Config = {
         ['doc']: true,
     }
 }
-3️⃣ Start the Script
+```
+### 3️⃣ Start the Script
 Add the following lines to your server.cfg to ensure the scripts start correctly:
 
 ini
